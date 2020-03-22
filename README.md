@@ -1,3 +1,7 @@
+## You can find the full tutorial here
+
+https://weibenfalk.teachable.com/courses/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
